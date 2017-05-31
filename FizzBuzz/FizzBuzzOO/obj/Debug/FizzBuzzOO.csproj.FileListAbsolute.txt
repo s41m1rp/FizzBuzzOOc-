@@ -1,0 +1,5 @@
+C:\Tutorials\SelfProgramming\ooC#\fizzbuzz\FizzBuzz\FizzBuzzOO\bin\Debug\FizzBuzzOO.exe
+C:\Tutorials\SelfProgramming\ooC#\fizzbuzz\FizzBuzz\FizzBuzzOO\bin\Debug\FizzBuzzOO.pdb
+C:\Tutorials\SelfProgramming\ooC#\fizzbuzz\FizzBuzz\FizzBuzzOO\obj\Debug\FizzBuzzOO.csprojResolveAssemblyReference.cache
+C:\Tutorials\SelfProgramming\ooC#\fizzbuzz\FizzBuzz\FizzBuzzOO\obj\Debug\FizzBuzzOO.exe
+C:\Tutorials\SelfProgramming\ooC#\fizzbuzz\FizzBuzz\FizzBuzzOO\obj\Debug\FizzBuzzOO.pdb
